@@ -17,6 +17,7 @@ public class SessionHandling {
     	driver.findElement(By.name("uid")).sendKeys("Driver 1");
     	
     	driver.close();
+    	
         }
         
     @Test  
